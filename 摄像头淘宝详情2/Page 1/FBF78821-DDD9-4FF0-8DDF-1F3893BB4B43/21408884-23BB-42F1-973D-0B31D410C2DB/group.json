@@ -1,6 +1,6 @@
 {
   "_class": "group",
-  "do_objectID": "1D0A8FDE-7F73-4E6F-8470-BD0DB2E674DD",
+  "do_objectID": "21408884-23BB-42F1-973D-0B31D410C2DB",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 224,
-    "width": 337,
-    "x": 377,
-    "y": 6654
+    "height": 37,
+    "width": 66,
+    "x": 62,
+    "y": 6668
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
@@ -26,15 +26,11 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "8BE78610-AC12-4BB5-8B40-B8AD1B15ADC1"
-    },
-    {
-      "class": "bitmap",
-      "id": "14D61D9B-BAEC-4A21-8756-D2894D01C0ED"
+      "class": "group",
+      "id": "48F58369-EAEA-4D54-A859-444EBB2BB1EB"
     }
   ],
-  "name": "Bitmap",
+  "name": "Group 12",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

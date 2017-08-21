@@ -1,6 +1,6 @@
 {
   "_class": "group",
-  "do_objectID": "1D0A8FDE-7F73-4E6F-8470-BD0DB2E674DD",
+  "do_objectID": "FD16FB0D-BF86-435F-BF1D-E37EED34729F",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -12,11 +12,11 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "height": 224,
-    "width": 337,
-    "x": 377,
-    "y": 6654
+    "constrainProportions": true,
+    "height": 45,
+    "width": 45,
+    "x": 18,
+    "y": 18
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
@@ -27,14 +27,10 @@
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "8BE78610-AC12-4BB5-8B40-B8AD1B15ADC1"
-    },
-    {
-      "class": "bitmap",
-      "id": "14D61D9B-BAEC-4A21-8756-D2894D01C0ED"
+      "id": "90B7BA88-6726-4F41-98F1-057985DCAE7A"
     }
   ],
-  "name": "Bitmap",
+  "name": "分享",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -1,6 +1,6 @@
 {
   "_class": "group",
-  "do_objectID": "1D0A8FDE-7F73-4E6F-8470-BD0DB2E674DD",
+  "do_objectID": "4FFFA79F-542F-4FD3-9F99-FF1020FCBE8F",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 224,
-    "width": 337,
-    "x": 377,
-    "y": 6654
+    "height": 96,
+    "width": 504,
+    "x": 123,
+    "y": 9650
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
@@ -26,15 +26,23 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "8BE78610-AC12-4BB5-8B40-B8AD1B15ADC1"
+      "class": "text",
+      "id": "A47DB130-95E7-431F-87A0-C2CC83866322"
     },
     {
-      "class": "bitmap",
-      "id": "14D61D9B-BAEC-4A21-8756-D2894D01C0ED"
+      "class": "text",
+      "id": "9B5C49E7-1693-40E0-8DF1-8EA543559BE2"
+    },
+    {
+      "class": "group",
+      "id": "053F6864-EFAF-4AD8-9A08-766A1836A287"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "100B96B0-B895-40AB-98EB-01E802FCE04D"
     }
   ],
-  "name": "Bitmap",
+  "name": "Group 7",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

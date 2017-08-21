@@ -1,7 +1,7 @@
 {
   "_class": "bitmap",
   "clippingMask": "{{0, 0}, {1, 1}}",
-  "do_objectID": "64CEA846-7833-4849-BC42-A39744E905F5",
+  "do_objectID": "7B5F36A2-A85D-4260-9AA7-C25D7606B2D7",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,14 +15,14 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 227,
-    "width": 340,
-    "x": 0,
-    "y": 0
+    "height": 309,
+    "width": 635,
+    "x": 74,
+    "y": 7610
   },
   "image": {
     "_class": "MSJSONFileReference",
-    "_ref": "images/5f025930a6eff695e972e32d154b1c2250f93ab4",
+    "_ref": "images/6f4c9f46ba48bbb3dcde3eae22a6d08285d5e930",
     "_ref_class": "MSImageData"
   },
   "isFlippedHorizontal": false,
@@ -30,7 +30,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Bitmap",
+  "name": "Bitmap Copy 4",
   "nameIsFixed": false,
   "nineSliceCenterRect": "{{0, 0}, {0, 0}}",
   "nineSliceScale": "{0, 0}",
@@ -40,16 +40,30 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "colorControls": {
-      "_class": "colorControls",
-      "brightness": -0.3170396959459459,
-      "contrast": 1,
-      "hue": 0,
-      "isEnabled": true,
-      "saturation": 1
-    },
     "endDecorationType": 0,
     "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 18,
+        "color": {
+          "_class": "color",
+          "alpha": 0.1428328804347826,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 1,
+        "offsetY": 11,
+        "spread": 0
+      }
+    ],
     "startDecorationType": 0
   }
 }

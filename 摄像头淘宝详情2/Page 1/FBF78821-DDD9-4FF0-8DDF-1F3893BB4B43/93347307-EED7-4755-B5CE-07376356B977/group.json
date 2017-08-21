@@ -1,6 +1,6 @@
 {
   "_class": "group",
-  "do_objectID": "1D0A8FDE-7F73-4E6F-8470-BD0DB2E674DD",
+  "do_objectID": "93347307-EED7-4755-B5CE-07376356B977",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,28 +13,32 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 224,
-    "width": 337,
-    "x": 377,
-    "y": 6654
+    "height": 81,
+    "width": 327,
+    "x": 375,
+    "y": 9415
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "8BE78610-AC12-4BB5-8B40-B8AD1B15ADC1"
+      "class": "group",
+      "id": "7A62D3E7-527B-4D99-970F-0A1D09C80326"
     },
     {
-      "class": "bitmap",
-      "id": "14D61D9B-BAEC-4A21-8756-D2894D01C0ED"
+      "class": "text",
+      "id": "FE2E6B85-EAD1-4163-B6B6-9CC14A6ED1C9"
+    },
+    {
+      "class": "text",
+      "id": "E36AB1F4-E355-4A05-8C7D-84F0BE88351F"
     }
   ],
-  "name": "Bitmap",
+  "name": "Group 4 Copy 5",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

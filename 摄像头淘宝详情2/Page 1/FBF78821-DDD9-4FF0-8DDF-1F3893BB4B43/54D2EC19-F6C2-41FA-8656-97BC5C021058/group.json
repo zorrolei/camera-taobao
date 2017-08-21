@@ -1,6 +1,6 @@
 {
   "_class": "group",
-  "do_objectID": "1D0A8FDE-7F73-4E6F-8470-BD0DB2E674DD",
+  "do_objectID": "54D2EC19-F6C2-41FA-8656-97BC5C021058",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -16,7 +16,7 @@
     "height": 224,
     "width": 337,
     "x": 377,
-    "y": 6654
+    "y": 6882
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
@@ -27,11 +27,11 @@
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "8BE78610-AC12-4BB5-8B40-B8AD1B15ADC1"
+      "id": "D3FD5468-5E2E-414F-9346-E336DFFB40EC"
     },
     {
       "class": "bitmap",
-      "id": "14D61D9B-BAEC-4A21-8756-D2894D01C0ED"
+      "id": "7E937F3C-0F6D-4779-ADB6-80C611B33485"
     }
   ],
   "name": "Bitmap",
