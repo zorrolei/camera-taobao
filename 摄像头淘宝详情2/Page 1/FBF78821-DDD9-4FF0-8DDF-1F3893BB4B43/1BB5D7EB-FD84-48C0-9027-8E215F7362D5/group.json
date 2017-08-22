@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "1BB5D7EB-FD84-48C0-9027-8E215F7362D5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 180,
+    "width": 180,
+    "x": 313,
+    "y": 13326
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "50F8F43B-384C-4D0A-9C16-EACA018174DF"
+    },
+    {
+      "class": "bitmap",
+      "id": "5F3836A6-50DF-456C-961A-D0B58B63FCD9"
+    }
+  ],
+  "name": "WechatIMG90",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

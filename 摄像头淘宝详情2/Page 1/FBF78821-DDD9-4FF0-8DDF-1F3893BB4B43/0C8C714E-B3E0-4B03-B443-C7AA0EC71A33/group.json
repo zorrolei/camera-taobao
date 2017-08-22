@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "0C8C714E-B3E0-4B03-B443-C7AA0EC71A33",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 90,
+    "width": 104,
+    "x": 336,
+    "y": 10549
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E58129BB-AACC-416D-8CAF-25F01BB2820A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8E231BE9-8068-415C-A796-E800B80EBA24"
+    }
+  ],
+  "name": "阿里云安全 copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
