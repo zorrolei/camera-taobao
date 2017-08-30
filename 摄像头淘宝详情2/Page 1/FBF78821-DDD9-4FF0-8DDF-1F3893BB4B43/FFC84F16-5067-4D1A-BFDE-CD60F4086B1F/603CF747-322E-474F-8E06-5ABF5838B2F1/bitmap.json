@@ -1,7 +1,7 @@
 {
   "_class": "bitmap",
   "clippingMask": "{{0, 0}, {1, 1}}",
-  "do_objectID": "292E8A11-4BE0-4E60-9C12-0394D14A223C",
+  "do_objectID": "603CF747-322E-474F-8E06-5ABF5838B2F1",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,22 +15,22 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 38,
-    "width": 26,
-    "x": 412,
-    "y": 149
+    "height": 49,
+    "width": 72,
+    "x": 89,
+    "y": 107
   },
   "image": {
     "_class": "MSJSONFileReference",
-    "_ref": "images/17580791c79cb54cdca6760103ab2f4129288ab8",
+    "_ref": "images/7992d2d3d58ae0ea5a5f621d516f3d55bcc12ca3",
     "_ref_class": "MSImageData"
   },
   "isFlippedHorizontal": false,
-  "isFlippedVertical": true,
+  "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "图层 1 copy 2",
+  "name": "Bitmap",
   "nameIsFixed": false,
   "nineSliceCenterRect": "{{0, 0}, {0, 0}}",
   "nineSliceScale": "{0, 0}",

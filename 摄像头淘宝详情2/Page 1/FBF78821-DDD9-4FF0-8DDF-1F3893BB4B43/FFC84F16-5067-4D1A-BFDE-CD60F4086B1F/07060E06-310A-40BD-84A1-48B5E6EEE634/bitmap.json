@@ -1,7 +1,7 @@
 {
   "_class": "bitmap",
   "clippingMask": "{{0, 0}, {1, 1}}",
-  "do_objectID": "D972F967-192E-4246-BBD5-902A10365508",
+  "do_objectID": "07060E06-310A-40BD-84A1-48B5E6EEE634",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,14 +15,14 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 397,
-    "width": 267,
-    "x": 56,
-    "y": 2817
+    "height": 38,
+    "width": 26,
+    "x": 412,
+    "y": 149
   },
   "image": {
     "_class": "MSJSONFileReference",
-    "_ref": "images/2d5cdaa9c74d4bdd2ab87aa665e69427f6585533",
+    "_ref": "images/48415e105a35d0dcb667657fbfcb1e269e1e0248",
     "_ref_class": "MSImageData"
   },
   "isFlippedHorizontal": false,
@@ -30,7 +30,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Bitmap Copy 3",
+  "name": "Bitmap",
   "nameIsFixed": false,
   "nineSliceCenterRect": "{{0, 0}, {0, 0}}",
   "nineSliceScale": "{0, 0}",

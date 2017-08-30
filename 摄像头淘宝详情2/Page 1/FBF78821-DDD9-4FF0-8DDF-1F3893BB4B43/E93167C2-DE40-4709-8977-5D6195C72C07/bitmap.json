@@ -16,13 +16,13 @@
     "_class": "rect",
     "constrainProportions": true,
     "height": 591,
-    "width": 396,
+    "width": 397.1658144631118,
     "x": 176,
     "y": 15557
   },
   "image": {
     "_class": "MSJSONFileReference",
-    "_ref": "images/77944f35d75f8cc1e3c9dea0eb86c5ed42a9183c",
+    "_ref": "images/0382ecda64758211ee6987226d6b95a584f50cdf",
     "_ref_class": "MSImageData"
   },
   "isFlippedHorizontal": false,
